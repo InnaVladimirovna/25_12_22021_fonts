@@ -1,0 +1,67 @@
+@font-face{
+    font-family: Gabriola;
+    src: url(../fonts/Gabriola.ttf);
+    font-family: SIMPSONS;
+    src: url(../fonts/7fonts.ru_SIMPSONS.TTF)
+}
+@font-face{
+    font-family: Anillo;
+    src: url(../fonts/7fonts.ru_Anillo.ttf);
+}
+@font-face{
+    font-family: segoepr;
+    src: url(../fonts/segoepr.ttf);
+}
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Marck+Script&family=PT+Sans+Narrow&family=Pacifico&display=swap');
+.one{
+    font-family: 'Pacifico', cursive;
+}
+.two{
+    font-family: 'Marck Script', cursive;
+
+}
+.three{
+    font-family: 'Indie Flower', cursive;
+}
+.four{
+    font-family: Gabriola;
+}
+.five{
+    font-family: SIMPSONS;
+}
+.SIX{
+    font-family: Anillo;
+}
+.SEVEN{
+    font-family: segoepr;
+}
+.sprite{
+    background: url(../img/MicrosoftTeams-image.png)no-repeat;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.g{
+    background-color: red;
+}
+.tw{
+    background-position: -100px 0;
+    background-color: lightblue;
+}
+.mes{
+    background-position: -200px 0;
+    background-color: yellow;
+}
+.fb{
+    background-position: -300px 0;
+    background-color: blue;
+}
+.od{
+    background-color: coral;
+    background-position: -400px 0;
+}
+.clear{
+    clear: both;
+}
